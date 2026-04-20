@@ -189,7 +189,17 @@ If you use this code or find it helpful in your research, please cite our paper:
 
 
 ---
-
+@article{nyekha2026fusionweightnet,
+  author    = {Nyekha, Velato},
+  title     = {FusionWeightnet: a Four-View Convolutional Neural Network 
+               Framework for Non-Invasion Body Weight Estimation of Tenyi 
+               Vo Pigs Under Smallholder Farms conditions},
+  journal   = {The Visual Computer},
+  publisher = {Springer},
+  year      = {2026},
+  doi       = {10.5281/zenodo.19662480},
+  url       = {https://doi.org/10.5281/zenodo.19662480}
+}
 ## 📧 Contact
 
 For questions about the code or paper, please contact:
