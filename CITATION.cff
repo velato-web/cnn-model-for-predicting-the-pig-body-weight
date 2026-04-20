@@ -7,10 +7,53 @@ date-released: "2026-04-20"
 license: MIT
 repository-code: "https://github.com/YOURUSERNAME/velato-web"
 doi: "10.5281/zenodo.19664827"
+
 authors:
   - family-names: Nyekha
     given-names: Velato
     affiliation: "Nagaland University"
+    email: velatonyekha@gmail.com
+
+  - family-names: Kumar
+    given-names: Harshit
+    affiliation: "ICAR – National Research Centre on Mithun"
+    email: harshit.kumar@icar.org.in
+
+  - family-names: Vidyarthi
+    given-names: V. K.
+    affiliation: "Nagaland University"
+    email: vidyarthi64@gmail.com
+
+  - family-names: Choudhary
+    given-names: Jagdish
+    affiliation: "Nagaland University"
+    email: jagdishsyag111@gmail.com
+
+  - family-names: Rutsa
+    given-names: M. Catherine
+    affiliation: "Nagaland University"
+    email: cathyrutsa@gmail.com
+
+  - family-names: Devi
+    given-names: L. Sunitibala
+    affiliation: "ICAR – National Research Centre on Mithun"
+    email: thoibi.suniti@gmail.com
+
+  - family-names: Hanah
+    given-names: S. S.
+    affiliation: "ICAR – National Research Centre on Mithun"
+    email: stephenhanah@gmail.com
+
+  - family-names: Chamuah
+    given-names: J. K.
+    affiliation: "ICAR – National Research Centre on Mithun"
+    email: drjayantavet@gmail.com
+
+  - family-names: PS
+    given-names: Girish
+    affiliation: "ICAR – National Research Centre on Mithun"
+    email: girish.patils@icar.org.in
+
 keywords:
   - pig weight estimation
   - convolutional neural network
@@ -19,13 +62,29 @@ keywords:
   - smallholder farms
   - computer vision
   - deep learning
+
 preferred-citation:
   type: article
   title: "FusionWeightnet: a Four-View Convolutional Neural Network Framework for Non-Invasion Body Weight Estimation of Tenyi Vo Pigs Under Smallholder Farms conditions"
   authors:
     - family-names: Nyekha
       given-names: Velato
-      affiliation: "Nagaland University"
+    - family-names: Kumar
+      given-names: Harshit
+    - family-names: Vidyarthi
+      given-names: V. K.
+    - family-names: Choudhary
+      given-names: Jagdish
+    - family-names: Rutsa
+      given-names: M. Catherine
+    - family-names: Devi
+      given-names: L. Sunitibala
+    - family-names: Hanah
+      given-names: S. S.
+    - family-names: Chamuah
+      given-names: J. K.
+    - family-names: PS
+      given-names: Girish
   journal: "The Visual Computer"
   publisher: "Springer"
   year: 2026
