@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Pig Weight Prediction using CNN"
+message: "If you use this code, please cite our manuscript submitted to The Visual Computer."
+authors:
+
+* family-names: Nyekha
+  given-names: Velato
+  date-released: 2026-01-01
