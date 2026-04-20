@@ -1,8 +1,32 @@
 cff-version: 1.2.0
-title: "Pig Weight Prediction using CNN"
-message: "If you use this code, please cite our manuscript submitted to The Visual Computer."
+title: "FusionWeightnet: a Four-View Convolutional Neural Network Framework for Non-Invasion Body Weight Estimation of Tenyi Vo Pigs Under Smallholder Farms conditions"
+message: "If you use this code, please cite the manuscript below."
+type: software
+version: "1.0.0"
+date-released: "2026-04-20"
+license: MIT
+repository-code: "https://github.com/YOURUSERNAME/velato-web"
+doi: "10.XXXX/XXXXXXX"
 authors:
-
-* family-names: Nyekha
-  given-names: Velato
-  date-released: 2026-01-01
+  - family-names: Nyekha
+    given-names: Velato
+    affiliation: "Your University / Institution Name Here"
+keywords:
+  - pig weight estimation
+  - convolutional neural network
+  - ResNet50
+  - non-invasive livestock monitoring
+  - smallholder farms
+  - computer vision
+  - deep learning
+preferred-citation:
+  type: article
+  title: "FusionWeightnet: a Four-View Convolutional Neural Network Framework for Non-Invasion Body Weight Estimation of Tenyi Vo Pigs Under Smallholder Farms conditions"
+  authors:
+    - family-names: Nyekha
+      given-names: Velato
+      affiliation: "Your University / Institution Name Here"
+  journal: "The Visual Computer"
+  publisher: "Springer"
+  year: 2026
+  doi: "10.XXXX/XXXXXXX"
