@@ -6,7 +6,7 @@ version: "1.0.0"
 date-released: "2026-04-20"
 license: MIT
 repository-code: "https://github.com/YOURUSERNAME/velato-web"
-doi: "10.5281/zenodo.19662480"
+doi: "10.5281/zenodo.19664827"
 authors:
   - family-names: Nyekha
     given-names: Velato
@@ -29,4 +29,4 @@ preferred-citation:
   journal: "The Visual Computer"
   publisher: "Springer"
   year: 2026
-  doi: "10.5281/zenodo.19662480"
+  doi: "10.5281/zenodo.19664827"
