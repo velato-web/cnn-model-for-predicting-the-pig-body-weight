@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19662480.svg)](https://doi.org/10.5281/zenodo.19662480)
 # FusionWeightnet: A Four-View CNN Framework for Non-Invasion Body Weight Estimation of Tenyi Vo Pigs
 
 > 📄 **Manuscript Notice:**
@@ -181,12 +182,11 @@ If you use this code or find it helpful in your research, please cite our paper:
   journal   = {The Visual Computer},
   publisher = {Springer},
   year      = {2026},
-  doi       = {10.XXXX/XXXXXXX},
-  url       = {https://doi.org/10.XXXX/XXXXXXX}
+  doi       = {10.5281/zenodo.19662480},
+  url       = {https://doi.org/10.5281/zenodo.19662480}
 }
 ```
 
-*(Update the DOI once assigned by the journal)*
 
 ---
 
@@ -194,7 +194,7 @@ If you use this code or find it helpful in your research, please cite our paper:
 
 For questions about the code or paper, please contact:
 
-- **Velato Nyekha** — [your email here]
+- **Velato Nyekha** — [velatonyekha@gmail.com]
 - Or open an **Issue** on this GitHub repository
 
 ---
